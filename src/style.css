@@ -1,0 +1,82 @@
+#divider{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+.socialIconBox{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    padding: 18px;
+    background-color: cadetblue;
+    margin-right: 7px;
+}
+#fb{
+    background-color: #446BB9;
+}
+#fb a{
+    color: #fff;
+}
+#insta{
+    background-color: #B33153;
+}
+#insta a{
+    color: #fff;
+}
+#linkd{
+    background-color: #007BB6;
+}
+#linkd a{
+    color: #fff;
+}
+#twitter{
+    background-color: #00ACED;
+}
+#twitter a{
+    color: #fff;
+}
+
+.MyForm .form-control {
+    border: none;
+    background-color: #e6e6e6;
+  }
+
+  .MyBreadcrumb {
+    background: linear-gradient(to bottom, #08596d, #87a0ce);
+    color: #fff;
+    padding: 10px;
+  }
+  .MyBreadcrumb .breadcrumb .breadcrumb-item a {
+    text-decoration: none;
+    color: #fff; 
+  }
+  
+  .MyBreadcrumb .breadcrumb .breadcrumb-item.active {
+    color: #d3cdcd; 
+  }
+
+  .navActive{
+    background-color: rgb(0, 152, 240);
+    color: #fff !important;
+    border-radius: 12px;
+}
+.orderForm{
+    background-color: #E9ECEF;
+    border-radius: 9px;
+}
+
+.Main{
+    width: 70%;
+    margin:  40px auto;
+    border: 10px solid transparent;
+    padding: 15px 25px;
+    background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 19px );
+-webkit-backdrop-filter: blur( 19px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.login-heading{
+    margin: 0 auto;
+}
